@@ -1,2 +1,2 @@
-# Boogle-vje-ba
+# Boogle-vjezba
 Primjer Boogle stranice, HTML i CSS
